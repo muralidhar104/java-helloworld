@@ -1,0 +1,7 @@
+Class hello world
+{
+Public static void main(String arts[])
+{
+System.out.print on("Hello,world");
+}
+}
